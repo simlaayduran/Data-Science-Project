@@ -1,6 +1,6 @@
 # Data-Science-Project
-##Movie Release
-###Overview
+## Movie Release
+### Overview
 Your team has been hired by a media company that wants to understand the discussions currently happening around the film “(insert a recently-released movie that your team selected here)”. They have indicated that they are especially concerned with the favorability of the audience response. Specifically, they want to know:
 1. The salient topics discussed around their film and what each topic primarily concerns
 2. Relative engagement with those topics
@@ -8,7 +8,7 @@ Your team has been hired by a media company that wants to understand the discuss
 
 You will conduct this analysis and submit a report discussing your findings.
 
-###Analysis Details
+### Analysis Details
 
 Your analysis will draw on Twitter posts (tweets). To inform your analysis, you should collect 1,000 tweets within a 3 day window. You should set filters such that all 1,000 posts have a very high likelihood of being related to the movie AND all are in English (ensure that the language field is set to “en”... this isn’t exact, but it gets close). You can filter by hashtags or words when collecting Twitter data. You can choose the exact words, as long as they are related to the context that we mentioned before.
 Each tweet in your collection should be unique – meaning that you shouldn’t include an identical tweet or retweet twice.
